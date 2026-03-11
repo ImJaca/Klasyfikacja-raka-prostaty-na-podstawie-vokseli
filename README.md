@@ -70,3 +70,8 @@ Klasyfikacja-raka-prostaty-na-podstawie-vokseli/
 │   └── patient_labels_pz.npy
 └── README.md
 ```
+
+## Autorzy
+
+ImJaca,
+Diabii
