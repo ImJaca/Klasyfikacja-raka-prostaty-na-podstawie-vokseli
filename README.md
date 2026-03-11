@@ -54,7 +54,7 @@ Model wykorzystuje:
 |--------|--------|
 | Precision | 0.6673 |
 | Recall | 0.8620 |
-| ROC AUC | 0.8145 |
+| ROC AUC | 0.7910 |
 
 Wysoka wartość **Recall** wskazuje na dobrą skuteczność modelu w wykrywaniu wokseli nowotworowych, co jest lepszym rozwiązanie pod kątem zastosowania modelu w medycynie.
 
